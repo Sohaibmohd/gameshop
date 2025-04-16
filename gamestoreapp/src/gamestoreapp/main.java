@@ -8,15 +8,6 @@ import java.util.HashMap;
 import java.util.ArrayList;
 
 public class main {
-    private static HashMap<String, String> users = new HashMap<>();
-    private static HashMap<String, String> userPhones = new HashMap<>();
-    private static HashMap<String, String> userEmails = new HashMap<>();
-    
-    static {
-        users.put("admin", "admin123");
-        users.put("user", "user123");
-    }
-
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         try {
@@ -27,6 +18,15 @@ public class main {
             String Platform = "";
             String user = "";
             float price = 0;
+
+            
+            if (!dbc.login("admin", "admin123")) {
+                boolean reg = dbc.register("admin", "admin123", "-", "-");
+                System.out.println(reg ? "Admin registered!" : "Failed to register admin.");
+            } else {
+                System.out.println("Admin already exists.");
+            }
+
 
             System.out.println("\n!--------Welcome to the Game Store--------!");
             while (true) {
