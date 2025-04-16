@@ -1,0 +1,9 @@
+=================
+GAME STORE BILL
+=================
+USER: vegeta
+GAME: Fifa 23
+PLATFORM: Xbox
+PRICE $: 34.0
+DATE: 2025-03-26
+===================

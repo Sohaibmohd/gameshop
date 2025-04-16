@@ -1,0 +1,20 @@
+=================
+GAME STORE BILL
+=================
+USER: John
+GAME: 
+PLATFORM: PC
+PRICE $: 0.0
+DATE: 2025-03-11
+===================
+Bill Saved to BILL_John.txt
+=================
+GAME STORE BILL
+=================
+USER: John
+GAME: GUN 
+PLATFORM: PC
+PRICE $: 10.99
+DATE: 2025-03-11
+===================
+Bill Saved to BILL_John.txt

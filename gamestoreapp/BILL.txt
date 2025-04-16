@@ -1,0 +1,6 @@
+=================GAME STORE BILL=================USER: 
+GAME: 
+PLATFORM: PC
+PRICE $: 0.0
+DATE: 2025-03-11 19:45:27
+===================Bill Saved toBILL.txt

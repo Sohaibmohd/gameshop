@@ -1,0 +1,45 @@
+=================
+GAME STORE BILL
+=================
+USER: Sohaib
+GAME: Sonic Adventures
+PLATFORM: PS5
+PRICE $: 15.0
+DATE: 2025-03-26
+===================
+=================
+GAME STORE BILL
+=================
+USER: Sohaib
+GAME: Sonic Adventures
+PLATFORM: PS5
+PRICE $: 15.0
+DATE: 2025-03-26
+===================
+=================
+GAME STORE BILL
+=================
+USER: sohaib
+GAME: Car Racer
+PLATFORM: PS5
+PRICE $: 23.0
+DATE: 2025-03-28
+===================
+=================
+GAME STORE BILL
+=================
+USER: sohaib
+GAME: Car Racer
+PLATFORM: PS5
+PRICE $: 23.0
+DATE: 2025-03-28
+===================
+=================
+GAME STORE BILL
+=================
+USER: sohaib
+GAME: Sonic Adventures
+PLATFORM: PS5
+PRICE $: 15.0
+DATE: 2025-04-16
+===================

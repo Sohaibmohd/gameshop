@@ -1,0 +1,6 @@
+=================GAME STORE BILL=================USER: Ron
+GAME: Mario Maker
+PLATFORM: PC
+PRICE $: 10.0
+DATE: 2025-03-11 19:55:43
+===================Bill Saved toBILLRon.txt
